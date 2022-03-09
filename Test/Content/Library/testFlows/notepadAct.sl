@@ -39,7 +39,7 @@ operation:
         id: '1'
         object_path: Window("Notepad++ [Administrator]").WinToolbar("ToolbarWindow32")
         action: Press
-        default_args: '1'
+        default_args: '5'
         snapshot: .\Snapshots\ssf1.png
         highlight_id: '789428'
   outputs:
