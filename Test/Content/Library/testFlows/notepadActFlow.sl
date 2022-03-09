@@ -13,8 +13,8 @@ flow:
               next_step: SUCCESS
               ROI: '13'
           - FAILURE:
-              next_step: FAILURE
-              ROI: '5'
+              next_step: FAILUREa
+              ROI: '10'
   results:
     - FAILURE
     - SUCCESS
