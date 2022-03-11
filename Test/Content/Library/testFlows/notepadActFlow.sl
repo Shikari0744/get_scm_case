@@ -11,7 +11,7 @@ flow:
               ROI: '10'
           - WARNING:
               next_step: SUCCESS
-              ROI: '13'
+              ROI: '15'
           - FAILURE: SUCCESS
   results:
     - SUCCESS
