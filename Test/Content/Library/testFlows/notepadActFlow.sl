@@ -8,7 +8,7 @@ flow:
         navigate:
           - SUCCESS:
               next_step: SUCCESS
-              ROI: '12'
+              ROI: '25'
           - WARNING:
               next_step: SUCCESS
               ROI: '17'
