@@ -24,6 +24,9 @@ flow:
 extensions:
   graph:
     steps:
+      add_numbers:
+        x: 160
+        'y': 120
       Generate_Random_Number:
         x: 320
         'y': 160
@@ -31,9 +34,6 @@ extensions:
           16b8dc04-bbe6-68e4-6bd5-5c50959c2133:
             targetId: c33ccfdf-4896-fcfc-7eb1-0622e9286a75
             port: success
-      add_numbers:
-        x: 160
-        'y': 160
     results:
       SUCCESS:
         c33ccfdf-4896-fcfc-7eb1-0622e9286a75:
