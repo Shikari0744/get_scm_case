@@ -17,8 +17,8 @@ extensions:
   graph:
     steps:
       Generate_Random_Number:
-        x: 440
-        'y': 240
+        x: 360
+        'y': 160
         navigate:
           16b8dc04-bbe6-68e4-6bd5-5c50959c2133:
             targetId: c33ccfdf-4896-fcfc-7eb1-0622e9286a75
