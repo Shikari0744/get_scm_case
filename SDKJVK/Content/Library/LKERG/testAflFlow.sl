@@ -5,7 +5,7 @@ flow:
     - add_numbers:
         do:
           io.cloudslang.base.math.add_numbers:
-            - value1: '1'
+            - value1: '2'
             - value2: '10'
         navigate:
           - SUCCESS: Generate_Random_Number
