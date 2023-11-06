@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flow id="c1646380-0100-4c7c-874f-d55cc7d4d02e">
+  <descriptionCdata><![CDATA[c1646380-0100-4c7c-874f-d55cc7d4d02e.57433d81-35d2-4c97-a0de-4622f03b35b2.description=<pre>Generates a random number.\n\nInputs\:\nmax - The maximum number that can be returned.\nmin - The minimum number that can be returned.\n\nResponses\:\nsuccess - The operation completed Successfully.\nfailure - Something went wrong.\n\nReturns\:\nA random number between max and min (inclusive)</pre>
+c1646380-0100-4c7c-874f-d55cc7d4d02e.57433d81-35d2-4c97-a0de-4622f03b35b2.prompt=Hi's
+]]></descriptionCdata>
+</flow>
